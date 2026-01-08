@@ -1,7 +1,0 @@
-**/*
-!embed_fixer/**/*
-!l10n/**/*
-!pyproject.toml
-!run.py
-!uv.lock
-.venv/
